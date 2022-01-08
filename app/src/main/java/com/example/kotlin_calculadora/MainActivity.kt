@@ -1,4 +1,4 @@
-package com.example.kotlin_calculadora
+package com.AKBiofrost.kotlin_calculadora
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
